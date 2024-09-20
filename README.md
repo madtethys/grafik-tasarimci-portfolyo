@@ -1,5 +1,5 @@
 ## Grafik Tasarımcılar için Portfolyo Sayfası
-[Sayfa Önizlemesi](/dosyalar/onizleme.png)(/dosyalar/onizleme.png)
+![Sayfa Önizlemesi](/dosyalar/onizleme.png)
 
 ## 📄 Proje Açıklaması:
 > Bu proje, grafik tasarımcılar için modern ve şık bir portfolyo sayfası oluşturmak amacıyla HTML, CSS ve JavaScript kullanılarak geliştirilmiştir. Sayfa, kullanıcıların projelerini, becerilerini ve iletişim bilgilerini profesyonel bir şekilde sergilemelerine olanak tanır.
