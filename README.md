@@ -66,5 +66,5 @@ cd proje-adi
 ## 📬 İletişim:
 > Bu proje hakkında sorularınız veya geri bildirimleriniz varsa, [e-posta](mailto:info@mdusova.com) yoluyla veya [LinkedIn](https://linkedin.com/in/mdusova) üzerinden benimle iletişime geçebilirsiniz.
 
-🛡️ Lisans
-Bu proje [Apache License 2.0](LICENSE) ile lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasını inceleyebilirsiniz.
+## 🛡️ Lisans
+> Bu proje [Apache License 2.0](LICENSE) ile lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasını inceleyebilirsiniz.
